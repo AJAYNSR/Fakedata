@@ -34,7 +34,7 @@
     },
     {
         "id": 4,
-        "division":"PMLC",
+        "division":"PMC",
         "country": "US",
         "reportView": "Butane",
         "month": "Dec",
@@ -45,7 +45,7 @@
     },
     {
         "id": 5,
-        "division":"PMLC",
+        "division":"PMC",
         "country": "Canada",
         "reportView": "Propane",
         "month": "Aug",
